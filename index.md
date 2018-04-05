@@ -3,12 +3,32 @@ layout: page
 excerpt: "About Me..."
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This all needs to be changed later in ........
+
+
+This is a test and not my genuine information.
+
+
+I was born on 12 January 1993 in Bradford, West Yorkshire, England. Growing up
+in a working class family and neighborhood, I developed an interest in rap, R&B,
+and boxing. I auditioned for The X Factor when I was 17, and though I was
+eliminated in the final round of competition, I became a part of the boy band
+One Direction.
+
+Aside from being an entertainer, in my spare time I focus on providing technical
+leadership and hands on programming for a portfolio of digital library projects.
+I am passionate about the impact of technology on libraries and higher education,
+and work to integrate this passion into my current projects.
+
+
+This is generic info belonging to Zayn Malik
+
 
 ## Current Interests and Projects:
 
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
-- DLorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
+- Developing my second studio album. Check out my recent singles [Still Got Time](https://www.youtube.com/watch?v=K4ZeDuKF4m8)
+and [Dusk Till Dawn](https://www.youtube.com/watch?v=tt2k8PGm-TI)
+- Open Source Software Development
+- Zayn x Versus, my fashion line for Donatella Versace
+- Born-Digital Preservation and Access
+- Green Hair
